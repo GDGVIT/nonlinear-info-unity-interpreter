@@ -4,6 +4,9 @@
 </a>
 	<h2 align="center"> WASDE Interpretor for Unity</h2>
 	<h4 align="center"> A sample implementation of the WASDE dialogue system. <h4>
+	<a href="https://gdscvit.itch.io/wasdeditor">
+		<img width="400" src="https://github.com/GDGVIT/nonlinear-info-editor/blob/dev/Assets/UI%20Art/WASDEditor_logo_darkmode.png" alt="WASDEditor"/>
+	</a>
 </p>
 
 ---
@@ -15,7 +18,7 @@
 
 
 ## Features
-- [ ]  Sample dialogue system for unity
+- [X]  Sample dialogue system for unity
 
 
 <br>
